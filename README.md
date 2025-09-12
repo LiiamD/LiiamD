@@ -65,3 +65,8 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
   📸 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 </div>
+
+---
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=liiamd&layout=compact&theme=tokyonight&hide_border=true&card_width=445
+
