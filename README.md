@@ -1,4 +1,4 @@
-# 📌 Liamine D.vloppeur web
+d# 📌 Liamine D.vloppeur web
 
 Bienvenue sur mon espace GitHub !  
 **Passionné par le développement web**, la **programmation**, et la **création de projets numériques** interactif.
@@ -23,6 +23,18 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
  </div>
  
+---
+
+<div align="center">🛠️ <strong>Outils de développement</strong> :<br><br>
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+</div>
+
 ---
 
 <div align="center"> 🎨 <strong>Outils de design</strong> :<br><br>
