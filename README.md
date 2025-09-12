@@ -68,5 +68,5 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiiamD&layout=compact&theme=tokyonight&hide_border=true&card_width=445)](https://github.com/IvanHornung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiiamD&layout=compact&theme=default&hide_border=true&card_width=445)](https://github.com/IvanHornung)
 
