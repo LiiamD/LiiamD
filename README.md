@@ -15,15 +15,14 @@ Maitrise des outils de graphisme, **motion design**, **UI/UX**, print.<br><br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 </div>
 
-<div style="border-bottom:16px solid #ccc; margin: 10px 0;"></div>
+<div align="center">─ ── ─── ───────── ─── ── ─</div>
 
  <div align="center">⚡ <strong>Back-end / API</strong> :<br><br>
   
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
  </div>
  
-<div style="border-bottom:1px solid #ccc; margin: 10px 0;"></div>
-
+<div align="center">─ ── ─── ───────── ─── ── ─</div>
 
 <div align="center">🛠️ <strong>Outils de développement</strong> :<br><br>
 
@@ -33,7 +32,7 @@ Maitrise des outils de graphisme, **motion design**, **UI/UX**, print.<br><br>
 
 </div>
 
-<div style="border-bottom:1px solid #ccc; margin: 10px 0;"></div>
+<div align="center">─ ── ─── ───────── ─── ── ─</div>
 
 
 <div align="center"> 🎨 <strong>Outils de design</strong> :<br><br>
