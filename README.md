@@ -18,14 +18,14 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ---
 
- <div align="center">⚡ <strong>Back-end / API</strong> : 
+ <div align="center">⚡ <strong>Back-end / API</strong> :<br><br>
   
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
  </div>
  
 ---
 
-<div align="center"> 🎨 <strong>Outils de design</strong> :
+<div align="center"> 🎨 <strong>Outils de design</strong> :<br><br>
  
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
 [![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)](https://www.adobe.com/products/indesign.html) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9900FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)  
