@@ -68,5 +68,5 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=liiamd&layout=compact&theme=tokyonight&hide_border=true&card_width=445
+https://github-readme-stats.vercel.app/api/top-langs/?username=LiiamD&layout=compact&theme=tokyonight&hide_border=true&card_width=445
 
