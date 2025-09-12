@@ -48,7 +48,11 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ## 🔗 Me contacter
 
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liamine.djellali@gmail.com) <br><br>
+📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liamine.djellali@gmail.com)
+
+<a href="liamine.djellali@gmail.com" target="_blank">
+  📧 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <a href="https://linkedin.com/in/liamine-djellali-346588204" target="_blank">
   💼 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
