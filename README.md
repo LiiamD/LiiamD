@@ -9,8 +9,7 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 ## ⚙️ Compétences principales
 
 <div align="center">💻 <strong>Front-end</strong> :
-
-
+ 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)  
@@ -22,19 +21,20 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org/)
 </div>
 
-
-
- <div align="center">⚡ **Back-end / API** : 
+ <div align="center">⚡ <strong>Back-end / API</strong> : 
+  
    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
  </div>
   
-<div align="center"> 🎨 <strong>Outils & design</strong> :
+<div align="center"> 🎨 <strong>Outils de design</strong> :
+ 
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)  
 [![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
 [![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)](https://www.adobe.com/products/indesign.html)  
 [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9900FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)  
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+
 </div>
 
 
