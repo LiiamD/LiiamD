@@ -46,7 +46,7 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ---
 
-## 🔗 Me contacter
+## 🔗 Contact
 
 <div align="center">
 <a href="liamine.djellali@gmail.com" target="_blank">
