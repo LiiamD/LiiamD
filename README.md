@@ -1,7 +1,7 @@
 ## 📌 Liamine D.vloppeur web
 
 
-**Passionné par le développement web**, la **programmation**, et la **création de projets numériques** interactif.
+**Passionné par le développement web**, la **programmation**, et la **création de projets numériques** interactif.<br>
 Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ---
