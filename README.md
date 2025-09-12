@@ -1,6 +1,6 @@
 Passionné par le **développement web**, la **programmation**, et la **création de projets numériques** interactif.<br>
 Maitrise des outils de graphisme, **motion design**, **UI/UX**, print.<br><br>
-<span style="font-family:ui-monospace;">Autonomie et créativité</span> 💿
+<p style="font-family:ui-monospace;">Autonomie et créativité</p> 💿
 
 ---
 
