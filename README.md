@@ -15,7 +15,7 @@ Maitrise des outils de graphisme, **motion design**, **UI/UX**, print.<br><br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 </div>
 
-<div style="border-box:1px solid #ccc; margin: 10px 0;"></div>
+<div style="border-bottom:16px solid #ccc; margin: 10px 0;"></div>
 
  <div align="center">⚡ <strong>Back-end / API</strong> :<br><br>
   
