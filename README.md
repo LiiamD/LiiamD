@@ -48,8 +48,7 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
 ## 🔗 Me contacter
 
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liamine.djellali@gmail.com)
-
+<div align="center">
 <a href="liamine.djellali@gmail.com" target="_blank">
   📧 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -65,4 +64,4 @@ Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 <a href="https://instagram.com/liam_d_signer" target="_blank">
   📸 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
+</div>
