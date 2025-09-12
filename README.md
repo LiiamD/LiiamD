@@ -1,6 +1,6 @@
 ## 📌 Liamine D.vloppeur web
 
-Bienvenue sur mon espace GitHub !  
+
 **Passionné par le développement web**, la **programmation**, et la **création de projets numériques** interactif.
 Maitrise des outils de graph', **motion design**, **UI/UX**, print.
 
